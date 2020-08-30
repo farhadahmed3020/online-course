@@ -1,0 +1,10 @@
+
+.cart-button{
+    background-color: rgb(240, 6, 56);
+    color: white;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
